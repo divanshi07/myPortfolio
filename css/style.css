@@ -222,7 +222,7 @@ a:hover{
   .timeline {
     position: relative;
     max-width: 1200px;
-    margin: 0 auto 0 auto;
+    margin: 0 10% 0 15%;
   }
   
   .timeline::after {
