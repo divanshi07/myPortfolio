@@ -66,7 +66,7 @@ a:hover{
     position: fixed;
     background-color: #845460;
     height:40%;
-    width:110px;
+    width:105px;
     left:3%;
     margin-top: 15%;
     z-index:2
@@ -349,7 +349,7 @@ a:hover{
     overflow: hidden;
     display: inline-grid;
     border:2px solid white;
-    margin:1% 1% 1% 5%;
+    margin:1% 0% 1% 7%;
   }
   .myContainer .myCard:before{
     content: '';
