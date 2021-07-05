@@ -43,6 +43,7 @@ hr{
     width: 5%;
     border-color:grey ;
     margin:3% auto;
+    visibility:hidden;
     /* height:5px; */
 }
 a{
